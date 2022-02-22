@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @woweide1432
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-woweide1432/woweide1432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# National Hsinchu Senior Industrial Vocational School
+## Programming, Introduction of Computer
+### 3rd grade
+- langugage: C
+- topic: stdio
